@@ -1,0 +1,21 @@
+spring:
+  datasource:
+      self:     #数据源1
+        driverClassName: com.mysql.jdbc.Driver
+        url: jdbc:mysql://172.20.131.17:3306/demo_1?useUnicode=true&characterEncoding=utf8&zeroDateTimeBehavior=convertToNull&useSSL=false&serverTimezone=GMT%2B8
+        username: root
+        password: huadian@123
+        type: com.alibaba.druid.pool.DruidDataSource
+      ueight:    #数据源2
+        driverClassName: com.mysql.jdbc.Driver
+        url: jdbc:mysql://172.20.131.17:3306/demo_2?useUnicode=true&characterEncoding=utf8&zeroDateTimeBehavior=convertToNull&useSSL=false&serverTimezone=GMT%2B8
+        username: root
+        password: huadian@123
+        type: com.alibaba.druid.pool.DruidDataSource
+      tail:     #数据源3
+        driverClassName: com.microsoft.sqlserver.jdbc.SQLServerDriver
+        url: jdbc:sqlserver://172.16.129.105:1433;DatabaseName=chd-chitan-dev1210
+        username: sqladmin
+        password: honda
+        type: com.alibaba.druid.pool.DruidDataSource
+
