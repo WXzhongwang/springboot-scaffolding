@@ -35,6 +35,8 @@
 
 15. [Spring Security Oauth2 单点登录]
 
+16. [Spring Boot：整合MyBatis Plus框架]
+
 
 #### 软件架构
 
