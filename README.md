@@ -39,7 +39,7 @@
 
 17. [Spring Boot：整合ElasticSearch]
 
-18. [Spring Boot：整合HTTPS] (证书： 参考 http://springboot.javaboy.org/2019/0813/springboot-https )
+18. [Spring Boot：整合HTTPS] http://springboot.javaboy.org/2019/0813/springboot-https
 
 19. [Spring Boot：整合多数据源事务问题] （单一事务 非跨数据源事务）
 
