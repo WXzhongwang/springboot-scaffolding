@@ -37,6 +37,8 @@
 
 16. [Spring Boot：整合MyBatis Plus框架]
 
+16. [Spring Boot：整合ElasticSearch]
+
 
 #### 软件架构
 
