@@ -1,0 +1,25 @@
+server:
+  port: 6321
+
+spring:
+  mail:
+    host: smtp.qq.com
+  port: 25
+  username: 1528683621@qq.com
+  password:
+  default-encoding: UTF-8
+  properties:
+    mail:
+      debug: true
+      smtp:
+        socketFactoryClass: javax.net.ssl.SSLSocketFactory
+email:
+  sender: 1528683621@qq.com
+  file:
+    name: members.xml
+logging:
+  config: classpath:logback.xml
+
+application:
+  name: email-plan
+  version: R.1.2.3

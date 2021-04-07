@@ -45,6 +45,10 @@
 
 20. [Spring Boot：整合Redis+Lua实现分布式锁] 
 
+21. [Spring Boot：整合thymeleaf] 
+
+22. [Spring Boot：整合thymeleaf+email] 
+
 #### 软件架构
 
 ##### 开发环境
