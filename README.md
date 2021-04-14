@@ -33,7 +33,7 @@
 
 14. [Spring Boot：整合Spring Security]
 
-15. [Spring Security Oauth2 单点登录]
+15. [Spring Boot：Spring Security Oauth2 单点登录]
 
 16. [Spring Boot：整合MyBatis Plus框架]
 
@@ -64,6 +64,8 @@
 29. [Spring Boot：自定义扩展点 CommandLineRunner] 
 
 30. [Spring Boot：Docker快速开始] 
+
+31. [Spring Boot：集成Prometheus] 参考 [SpringBoot集成Prometheus](https://blog.csdn.net/forezp/article/details/107465307)
 
 #### 软件架构
 
