@@ -50,6 +50,11 @@
 22. [Spring Boot：整合thymeleaf+email] 
 
 23. [Spring Boot：实现自定义Starter] 
+
+23. [Spring Boot：MongoDB]
+
+23. [Spring Boot：MongoDB 多数据源]
+
 #### 软件架构
 
 ##### 开发环境
