@@ -57,6 +57,8 @@
 
 26. [Spring Boot：WebFlux]
 
+27. [Spring Boot：Spring Boot Actuator] 参考 [SpringBoot 健康检查](https://www.jianshu.com/p/d5943e303a1f)
+
 #### 软件架构
 
 ##### 开发环境
