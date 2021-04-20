@@ -67,6 +67,8 @@
 
 31. [Spring Boot：集成Prometheus] 参考 [SpringBoot集成Prometheus](https://blog.csdn.net/forezp/article/details/107465307)
 
+32. [Spring Boot：Spring Boot Admin使用] 
+
 #### 软件架构
 
 ##### 开发环境
