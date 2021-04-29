@@ -69,6 +69,8 @@
 
 32. [Spring Boot：Spring Boot Admin使用] 
 
+33. [Spring Boot：Sentinel 开始使用] 
+
 #### 软件架构
 
 ##### 开发环境
